@@ -19,7 +19,7 @@
 
 
 # ➤ Sobre Mí
-#### Soy David Oreiro, `desarrollador web full stack junior` y `estudiante` de 4° año de Ingeniería en Sistemas de Información`. <br> Tengo `más de 10 años de experiencia en soporte técnico` informático y `1 año como desarrollador web fullstack`. Me considero una persona autodidacta, comunicativa y capaz de trabajar bien tanto en equipo como de manera individual. <br> Mi objetivo es ser parte de un equipo que me permita crecer ,aprender, y contribuir con mis habilidades en programación, administración y desarrollo web. También me enfoco en el análisis de procesos y sistemas de la organización para poder aportar nuevas ideas. <br> Valoro enormemente los entornos de trabajo saludables y colaborativos, donde los valores humanos y el compañerismo son esenciales.
+#### Soy David Oreiro, `desarrollador web full stack junior` y `estudiante de 4° año de Ingeniería en Sistemas de Información`. <br> Tengo `más de 10 años de experiencia en soporte técnico` informático y `1 año como desarrollador web fullstack`. Me considero una persona autodidacta, comunicativa y capaz de trabajar bien tanto en equipo como de manera individual. <br> Mi objetivo es ser parte de un equipo que me permita crecer ,aprender, y contribuir con mis habilidades en programación, administración y desarrollo web. También me enfoco en el análisis de procesos y sistemas de la organización para poder aportar nuevas ideas. <br> Valoro enormemente los entornos de trabajo saludables y colaborativos, donde los valores humanos y el compañerismo son esenciales.
 
 
 # ➤ Proyectos
