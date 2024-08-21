@@ -1,5 +1,4 @@
-## Hi there 👋
-
+![ice-video-20240821-051140-unscreen](https://github.com/user-attachments/assets/c029c6e8-5541-44a7-a5b1-378f35332d39)
 <!--
 **davidoreiro97/davidoreiro97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
