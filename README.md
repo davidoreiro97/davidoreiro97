@@ -5,9 +5,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⯆ React&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⯆ NextJS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⯆ UX/UI Design  <br>
 
 ## &nbsp;&nbsp; ■ Desarrollo web backend :
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⯆ NodeJS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⯆ Express  <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⯆ Typescript&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⯆ MySQL  <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⯆ Puppeteer&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⯆ PUG  <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⯆ NodeJS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⯆ Express&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⯆ Typescript <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⯆ MySQL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⯆ Puppeteer&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⯆ PUG  <br>
 
 ## &nbsp;&nbsp; ■ Gestor de versiones :
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⯆ Git&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⯆ GitHub <br>
